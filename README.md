@@ -9,4 +9,4 @@ Exit the client.blend first and then the server.blend
 Press Q before exiting the server.blend!
 
 
-Problems with firing :<
+
